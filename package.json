@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^14.1.0",
+    "jason-server": "^3.0.0"
+  }
+}
