@@ -1,18 +1,85 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 6,
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "services": "misal"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 7,
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "services": "misal"
+    },
+    {
+      "id": 8,
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "services": ""
+    },
+    {
+      "id": 9,
+      "name": "v",
+      "email": "m",
+      "mobile": "k",
+      "address": "y",
+      "services": "l"
+    },
+    {
+      "id": 10,
+      "name": "Vivek Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "mobile": "07385 900810",
+      "address": "ITI-AMBAD link road,wavare nagar, kamatwada",
+      "services": "maggi"
     }
   ],
+  "signup": [
+    {
+      "name": "vivek",
+      "email": "viv@gmail.com",
+      "mobile": "121212",
+      "password": "454454545",
+      "id": 1
+    },
+    {
+      "name": "soham sardeshmukh",
+      "email": "soham@gmail.com",
+      "mobile": "1212",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "mobile": "07385 900810",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "mobile": "07385 900810",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Bhagchand Fakira Khairnar",
+      "email": "viv.khairnar19@gmail.com",
+      "mobile": "07385 900810",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "tonpe",
+      "email": "tonpe@gmail.com",
+      "mobile": "121212",
+      "password": "tonpe",
+      "id": 6
+    }
+  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
